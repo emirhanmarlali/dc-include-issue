@@ -1,0 +1,6 @@
+include:
+  - foo.docker-compose.yml
+
+services:
+  main:
+    image: alpine
