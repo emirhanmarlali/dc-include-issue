@@ -1,0 +1,5 @@
+services:
+  main:
+    image: alpine
+  foo:
+    image: ubuntu:latest
